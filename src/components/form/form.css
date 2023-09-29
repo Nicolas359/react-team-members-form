@@ -1,0 +1,20 @@
+.form{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;   
+}
+
+.form form {
+    max-width: 80%;
+    background-color: #F6F6F6;
+    border-radius: 20px;
+    border: 1px;
+    box-shadow: 7px 7px 15px 0px #00000036;
+    padding: 8px 100px;
+}
+
+.form h2{
+    font-size: 32px;
+    font-weight: 400;
+    color: #212121;
+}
