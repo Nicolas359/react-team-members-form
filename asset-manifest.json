@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-team-members-form/static/css/main.68bb0997.css",
+    "main.js": "/react-team-members-form/static/js/main.c3e09e3f.js",
+    "static/js/787.b790015c.chunk.js": "/react-team-members-form/static/js/787.b790015c.chunk.js",
+    "index.html": "/react-team-members-form/index.html",
+    "main.68bb0997.css.map": "/react-team-members-form/static/css/main.68bb0997.css.map",
+    "main.c3e09e3f.js.map": "/react-team-members-form/static/js/main.c3e09e3f.js.map",
+    "787.b790015c.chunk.js.map": "/react-team-members-form/static/js/787.b790015c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68bb0997.css",
+    "static/js/main.c3e09e3f.js"
+  ]
+}
