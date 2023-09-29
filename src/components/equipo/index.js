@@ -1,6 +1,6 @@
 import "./equipo.css"
 import Card from "../card"
-import hexToRgba from 'hex-to-rgba';
+import hexToRgba from "hex-to-rgba";
 
 
 const Equipo = (props) => {
