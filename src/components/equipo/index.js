@@ -11,7 +11,8 @@ const Equipo = (props) => {
 
     const estiloTitulo = {borderColor: colorPrimario}
 
-    const bgColor = {backgroundColor: hexToRgba(colorPrimario,0.4)}
+/*     const bgColor = {backgroundColor: hexToRgba(colorPrimario,0.4)} */
+const bgColor = {backgroundColor: colorSecundario}
 
     return <> { colaboradores.length > 0 && 
         <section className="equipo" style={bgColor}>
